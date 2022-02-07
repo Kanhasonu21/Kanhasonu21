@@ -1,11 +1,11 @@
-###  👋 Hi there I'm   [Kanhaiya Kumar](https://bit.ly/33Xquxl)
+# 👋 Hi there I'm   [Kanhaiya Kumar](https://bit.ly/33Xquxl)
 
 
 - 🌱 I’m currently working as a Software Enginner and constantly learning Javascript 💛 and it's frameworks/libraries.
 - 👯 I’m open to collaborate on open source projects in frontend.
 - 💬 Ask me about JS 💛, React, Node/Express, Python or anything apart tech.
 - 📫 How to reach me:
-  - [Email](kanhaiyak42@gmail.com)
+  - kanhaiyak42@pm.me
   - [Linkedin](https://www.linkedin.com/in/Kanhasonu21/)
   - [Twitter](https://twitter.com/kanhaiya__k)
 
