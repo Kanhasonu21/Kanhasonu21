@@ -5,7 +5,7 @@
 - 👯 I’m open to collaborate on open source projects in frontend.
 - 💬 Ask me about JS 💛, React, Node/Express, Python or anything apart tech.
 - 📫 How to reach me:
-  - kanhaiyak42@pm.me
+  - kanha_sonu@hotmail.com
   - [Linkedin](https://www.linkedin.com/in/Kanhasonu21/)
   - [Twitter](https://twitter.com/kanhaiya__k)
 
