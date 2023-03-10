@@ -6,7 +6,7 @@
 - 💬 Ask me about JS 💛, React, Node/Express, Python or anything apart tech.
 - 📫 How to reach me:
   - [Portfolio](https://kanhaiya-kumar.netlify.app/)
-  - kanha_sonu@hotmail.com
+  - kanhaiyakumar@duck.com
   - [Linkedin](https://www.linkedin.com/in/Kanhasonu21/)
   - [Twitter](https://twitter.com/kanhaiya__k)
 
