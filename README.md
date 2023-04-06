@@ -1,14 +1,14 @@
 # 👋 Hi there I'm   [Kanhaiya Kumar](https://bit.ly/33Xquxl)
 
 
-- 🌱 I’m currently working as a Software Enginner and constantly learning Javascript 💛 and it's frameworks/libraries.
-- 👯 I’m open to collaborate on open source projects in frontend.
-- 💬 Ask me about JS 💛, React, Node/Express, Python or anything apart tech.
-- 📫 How to reach me:
-  - [Portfolio](https://kanhaiya-kumar.netlify.app/)
-  - kanhaiyakumar@duck.com
-  - [Linkedin](https://www.linkedin.com/in/Kanhasonu21/)
-  - [Twitter](https://twitter.com/kanhaiya__k)
+ 🌱 I’m currently working as a Software Enginner and constantly learning Javascript 💛 and it's frameworks/libraries.
+ - 👯 I’m open to collaborate on open source projects in frontend.
+ - 💬 Ask me about JS 💛, React, Node/Express, Python or anything apart tech.
+
+ 📫 How to reach me:
+ <div></div>
+<a href="https://kanhaiya-kumar.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-405DE6?style=for-the-badge&logo=&logoColor=white"/></a><a href="https://www.linkedin.com/in/Kanhasonu21/"><img src="https://img.shields.io/badge/Linkedin-3776AB?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://twitter.com/kanhaiya__k"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a><a href="kanhaiyakumar@duck.com"><img src="https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+      
 
 **Languages**
 
@@ -21,15 +21,14 @@
 **Front end**
 
 
-<div>
+<div></div>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
-<div>
---------
 
+**Github Stats**
 <!--![Github stats](https://github-readme-stats.vercel.app/api?username=kanhasonu21&theme=highcontrast&show_icons=true&count_private=true)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kanhasonu21)
