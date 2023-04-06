@@ -7,7 +7,7 @@
 
  📫 How to reach me:
  <div></div>
-<a href="https://kanhaiya-kumar.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-405DE6?style=for-the-badge&logo=&logoColor=white"/></a><a href="https://www.linkedin.com/in/Kanhasonu21/"><img src="https://img.shields.io/badge/Linkedin-3776AB?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://twitter.com/kanhaiya__k"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a><a href="kanhaiyakumar@duck.com"><img src="https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://kanhaiya-kumar.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-405DE6?style=for-the-badge&logo=&logoColor=white"/></a><a href="https://www.linkedin.com/in/Kanhasonu21/"><img src="https://img.shields.io/badge/Linkedin-3776AB?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://twitter.com/kanhaiya__k"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a><a href="mailto:kanhaiyakumar@duck.com"><img src="https://img.shields.io/badge/Mail-DB4437?style=for-the-badge&logo=gmail&logoColor=white"/></a>
       
 
 **Languages**
