@@ -28,14 +28,28 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
 <div>
-  <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Kanhasonu21&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=Kanhasonu21&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=Kanhasonu21&show_icons=true" />
-</picture>
+--------
+
+<!--![Github stats](https://github-readme-stats.vercel.app/api?username=kanhasonu21&theme=highcontrast&show_icons=true&count_private=true)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kanhasonu21)
+-->
+
+<hr/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanhasonu21&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="kanhasonu21" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kanhasonu21&show_icons=true&locale=en&theme=chartreuse-dark" alt="kanhasonu21" width="410" /></p>
+<br><br><br><br><br>
+<hr>
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kanhasonu21&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
+
+
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+
+<p align="center">
+<div align=center>
+  <a href="https://github.com/kanhasonu21/JavaScriptCodingInterviewQuestions" title="Go to Source">
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=kanhasonu21&theme=onedark&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+</p>
