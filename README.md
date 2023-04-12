@@ -1,4 +1,4 @@
-# 👋 Hi there I'm   [Kanhaiya Kumar](https://bit.ly/33Xquxl)
+# <img src="https://tenor.com/view/hi-gif-23520343.gif" width="40" height="40" /> Hi there I'm   [Kanhaiya Kumar](https://bit.ly/33Xquxl)
 
 
  🌱 I’m currently working as a Software Enginner and constantly learning Javascript 💛 and it's frameworks/libraries.
