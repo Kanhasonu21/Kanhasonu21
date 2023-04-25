@@ -1,4 +1,4 @@
-# <img src="https://github.com/Kanhasonu21/Kanhasonu21/blob/main/wave.gif" width="50" height="50" /> Hi there I'm   [Kanhaiya Kumar](https://bit.ly/33Xquxl)
+# <img src="https://github.com/Kanhasonu21/Kanhasonu21/blob/main/wave.gif" width="50" height="50" /> Hi there I'm Kanhaiya Kumar
 
 
  🌱 I’m currently working as a Software Enginner and constantly learning Javascript 💛 and it's frameworks/libraries.
