@@ -38,6 +38,7 @@
 
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<a href="https://app.daily.dev/kanhasonu21"><img src="https://api.daily.dev/devcards/13c1e27d2a7e40febd5a05f5b062f12f.png?r=nut" width="400" alt="Kanhaiya Kumar's Dev Card"/></a>
 
 <p align="center">
 <div align=center>
