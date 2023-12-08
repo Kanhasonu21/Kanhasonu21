@@ -38,12 +38,13 @@
 
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<a href="https://app.daily.dev/kanhasonu21"><img src="https://api.daily.dev/devcards/13c1e27d2a7e40febd5a05f5b062f12f.png?r=nut" width="400" alt="Kanhaiya Kumar's Dev Card"/></a>
-
 <p align="center">
+ 
 <div align=center>
   <a href="https://github.com/kanhasonu21/JavaScriptCodingInterviewQuestions" title="Go to Source">
       <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=kanhasonu21&theme=onedark&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 </p>
+<a href="https://app.daily.dev/kanhasonu21"><img src="https://api.daily.dev/devcards/13c1e27d2a7e40febd5a05f5b062f12f.png?r=nut" width="400" alt="Kanhaiya Kumar's Dev Card"/></a>
+
