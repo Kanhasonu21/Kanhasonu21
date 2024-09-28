@@ -3,7 +3,7 @@
 
  🌱 I’m currently working as a Software Enginner and constantly learning Javascript 💛 and it's frameworks/libraries.
  - 👯 I’m open to collaborate on open source projects in frontend.
- - 💬 Ask me about JS 💛, React, Node/Express, Python or anything apart tech.
+ - 💬 Ask me about JS 💛, React, Node/Express, Python or anything in tech.
 
  📫 How to reach me:
  <div></div>
